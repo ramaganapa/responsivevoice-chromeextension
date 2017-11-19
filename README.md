@@ -10,3 +10,5 @@ Usage:
 TODO:
   * Provide a checkbox to disable read aloud automatically
   * Provide a drop down to select default voice for text to speach
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
